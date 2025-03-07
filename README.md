@@ -22,7 +22,7 @@ Returns a dictionary containing IP Address
 
 ## Authors
 
-- [@nehagithub07](https://github.com/nehagithub07)
+- [@nehagithub07](https://github.com/kartavyabh24)
 
 
 ## Screenshots
@@ -33,4 +33,4 @@ Returns a dictionary containing IP Address
 
 ## Support
 
-For support, email nehasaniya465@gmail.com
+For support, email karanbh2002@gmail.com
